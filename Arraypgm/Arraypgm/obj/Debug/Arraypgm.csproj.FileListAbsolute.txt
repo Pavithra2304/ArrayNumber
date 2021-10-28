@@ -1,0 +1,7 @@
+F:\Dot_net\Arraypgm\Arraypgm\bin\Debug\Arraypgm.exe.config
+F:\Dot_net\Arraypgm\Arraypgm\bin\Debug\Arraypgm.exe
+F:\Dot_net\Arraypgm\Arraypgm\bin\Debug\Arraypgm.pdb
+F:\Dot_net\Arraypgm\Arraypgm\obj\Debug\Arraypgm.csproj.AssemblyReference.cache
+F:\Dot_net\Arraypgm\Arraypgm\obj\Debug\Arraypgm.csproj.CoreCompileInputs.cache
+F:\Dot_net\Arraypgm\Arraypgm\obj\Debug\Arraypgm.exe
+F:\Dot_net\Arraypgm\Arraypgm\obj\Debug\Arraypgm.pdb
